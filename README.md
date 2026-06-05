@@ -2,13 +2,6 @@
 Cientista de Dados | ML Engineer
 Olá! Me chamo gabriel angelo, tenho 21  e sou natural do Rio de janeiro. atualmente estou concluindo o ensino superior na uninter, Atualmente estou cursando  Ciência de Dados. Trabalho na interseção entre estatística, machine learning e engenharia de dados — construindo modelos que geram impacto real.s.
 <p align="left">
-    <a href="https://www.youtube.com">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no canal" 
-            src="https://custom-icon-badges.demolab.com/badge/Inscreva--se-FF0000?style=for-the-badge&logo=video&logoColor=white"
-        />
-    </a>
     <a href="https://www.linkedin.com">
         <img 
             alt="LinkedIn" 
