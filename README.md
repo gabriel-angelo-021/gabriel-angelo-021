@@ -53,8 +53,8 @@ ProjetoDescriçãoResultado🔮 Previsão de ChurnModelo preditivo de cancelamen
 
 
 💼 Aberto a oportunidades
-Estou disponível para posições de Cientista de Dados, ML Engineer ou Analista de Dados Sênior — presencial, híbrido ou remoto.
-📩 Entre em contato: joao@email.com  ·  LinkedIn  ·  Portfolio
+Estou disponível para posições de Cientista de Dados, ML Engineer ou Analista de Dados júnior — presencial, híbrido ou remoto.
+📩 Entre em contato: gabriel4660820@email.com  ·  LinkedIn  ·  Portfolio
 
 <p align="center">
   <i>"Without data, you're just another person with an opinion." — W. Edwards Deming</i>
