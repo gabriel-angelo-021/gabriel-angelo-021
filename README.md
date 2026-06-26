@@ -1,10 +1,11 @@
 #  👩🏻‍💻 gabriel angelo
+
 <h2 align="left">Olá 👋! Me chamo Gabriel Angelo e sou Cientista de Dados, do Rio de Janeiro.</h2>
 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gabriel-angelo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriel-angelo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=2&theme=dracula&hide_border=false&hide=html,css,javascript" height="150" alt="languages graph" />
+  <img src="./languages.svg" height="150" alt="languages graph" />
 </div>
 
 
@@ -51,3 +52,5 @@ Acredito que dados bem interpretados contam histórias poderosas: transformar n�
 
 <br clear="both">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+CompartilharArtefatosReadmeDocumento · MD 
