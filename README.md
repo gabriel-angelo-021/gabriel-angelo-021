@@ -1,52 +1,53 @@
 #  👩🏻‍💻 gabriel angelo
-<h1 align="center">Olá, eu sou Gabriel Angelo 👋</h1>
+Copiar<h2 align="left">Olá 👋! Me chamo Gabriel Angelo e sou Cientista de Dados, do Rio de Janeiro.</h2>
 
-<p align="center">
-  <em>21 anos · Rio de Janeiro, RJ 🌊 · Cientista de Dados em formação</em>
-</p>
 
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gabriel-angelo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriel-angelo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+</div>
 
-## Sobre mim
 
-Sou natural do Rio de Janeiro e estou concluindo minha graduação em **Ciência de Dados** pela UNINTER. Trabalho na interseção entre **estatística** e **machine learning** — construindo modelos que geram impacto real.
+<img align="right" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-Acredito que dados bem interpretados contam histórias poderosas, e é exatamente isso que me move: transformar números brutos em decisões inteligentes.
 
----
+Sou natural do Rio de Janeiro e estou concluindo minha graduação em Ciência de Dados pela UNINTER.
+Trabalho na interseção entre estatística e machine learning — construindo modelos que geram impacto real.
 
-## 🎓 Formação
 
-| Curso | Instituição | Status |
-|---|---|---|
-| Ciência de Dados | UNINTER | Em andamento |
+Acredito que dados bem interpretados contam histórias poderosas: transformar números brutos em decisões inteligentes é o que me move.
 
----
 
-## 🛠️ Áreas de interesse
 
-- **Estatística aplicada** — inferência, modelagem probabilística, análise exploratória
-- **Machine Learning** — modelos supervisionados e não supervisionados, avaliação e deploy
-- **Ciência de Dados** — pipelines de dados, visualização, storytelling com dados
 
----
 
-## 📍 Onde me encontrar
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="r logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
+</div>
 
-<p>
-  <a href="https://www.linkedin.com/in/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
 
----
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
+  <img src="https://img.shields.io/static/v1?message=Kaggle&logo=kaggle&label=&color=20BEFF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="kaggle logo" />
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=Dados+que+geram+impacto+real.;Estat%C3%ADstica+%2B+Machine+Learning.;Rio+de+Janeiro+%F0%9F%8C%8A" alt="Typing SVG" />
-</p>
+
+<br clear="both">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
