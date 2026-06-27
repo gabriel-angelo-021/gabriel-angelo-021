@@ -4,7 +4,7 @@
 [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=gabrielangelo&show_icons=true&theme=tokyonight&locale=pt-br)](https://github.com/gabrielangelo)
 
 [![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-angelo-021&theme=tokyonight&locale=pt-br&langs_count=8)](https://github.com/gabriel-angelo-021)
-## 🚀 Tecnologias e Ferramentas
+### 🚀 Tecnologias e Ferramentas
 <img align="right" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 <div data-importer="techs" align="left">
@@ -30,7 +30,7 @@
 
 
 
-## 📫 Redes de Contato
+ 📫 Redes de Contato
 
 <div align="left">
   <a href="mailto:gabriel4660820@email.com" target="_blank">
