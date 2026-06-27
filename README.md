@@ -1,5 +1,5 @@
 #  👩🏻‍💻 gabriel angelo
-<h2 align="left">Olá 👋! Me chamo Gabriel Angelo e sou Cientista de Dados, do Rio de Janeiro.</h2>
+Olá! Meu nome é Gabriel Angelo, tenho 22 anos e sou estudante de Ciência de Dados na UNINDE. Tenho interesse em programação, análise de dados e estou desenvolvendo minhas habilidades por meio de projetos e estudos. Aqui você encontrará alguns dos meus trabalhos e aprendizados
 
 
 <div align="center">
