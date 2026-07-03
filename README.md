@@ -1,9 +1,10 @@
 #  👩🏻‍💻 
 <h2 align="left">Olá 👋! Olá! Meu nome é Gabriel Angelo, tenho 22 anos e sou estudante de Ciência de Dados na UNINTER. Tenho interesse em programação, análise de dados e estou desenvolvendo minhas habilidades por meio de projetos e estudos. Aqui você encontrará alguns dos meus trabalhos e aprendizados.</h2>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel-angelo-021&show_icons=true&theme=tokyonight"/>
 
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=gabriel-angelo-021&show_icons=true&theme=tokyonight&locale=pt-br)](https://github.com/gabriel-angelo-021)
-
-[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-angelo-021&theme=tokyonight&locale=pt-br&langs_count=8)](https://github.com/gabriel-angelo-021)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-angelo-021&layout=compact&theme=tokyonight"/>
+</p> 
 ### 🚀 Tecnologias e Ferramentas
 <img align="right" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
