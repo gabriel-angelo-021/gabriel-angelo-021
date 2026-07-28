@@ -1,6 +1,7 @@
 #  👩🏻‍💻 
 <h2 align="left">Olá 👋! Olá! Meu nome é Gabriel Angelo, tenho 22 anos e sou estudante de Ciência de Dados na UNINTER. Tenho interesse em programação, análise de dados e estou desenvolvendo minhas habilidades por meio de projetos e estudos. Aqui você encontrará alguns dos meus trabalhos e aprendizados.  
 
+<br>
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gabriel-angelo-021&show_icons=true&theme=tokyonight"/>
