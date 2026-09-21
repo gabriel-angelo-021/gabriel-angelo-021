@@ -108,7 +108,6 @@ Projeto de análise da cotação do dólar utilizando **Python, Pandas, estatís
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
   <img height="180em" src="./profile/stats.svg"/>
   <img height="180em" src="./profile/top-langs.svg"/>
