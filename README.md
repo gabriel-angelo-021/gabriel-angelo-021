@@ -1,56 +1,160 @@
-#  👩🏻‍💻 
-<h2 align="left">Olá 👋! Olá! Meu nome é Gabriel Angelo, tenho 22 anos e sou estudante de Ciência de Dados na UNINTER. Tenho interesse em programação, análise de dados e estou desenvolvendo minhas habilidades por meio de projetos e estudos. Aqui você encontrará alguns dos meus trabalhos e aprendizados.  
+
+# 👨🏻‍💻 Gabriel Angelo
+
+<h2 align="left">Olá! 👋</h2>
+
+<p align="left">
+Sou estudante de <strong>Ciência de Dados na UNINTER</strong>, com foco em
+<strong>Análise de Dados, Python, SQL e Business Intelligence</strong>.
+<br><br>
+Tenho desenvolvido minhas habilidades por meio de projetos práticos envolvendo
+tratamento e análise de dados, bancos de dados, visualização e construção de
+dashboards.
+<br><br>
+🎯 Atualmente, busco uma oportunidade de <strong>estágio na área de Dados</strong>,
+onde possa aplicar meus conhecimentos, aprender com projetos reais e continuar
+evoluindo profissionalmente.
+</p>
+
+---
+
+## 🚀 Tecnologias e Ferramentas
+
+### 📊 Dados e BI
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="Python" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="35" alt="Pandas" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="35" alt="NumPy" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="MySQL" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="35" alt="Jupyter" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="35" alt="SQL Server" />
+</div>
 
 <br>
 
+**Conhecimentos:**
+
+* 🐍 Python
+* 🐼 Pandas
+* 🔢 NumPy
+* 🗄️ SQL
+* 🐬 MySQL
+* 🗃️ SQL Server
+* 📊 Power BI
+* 📗 Excel
+* 📈 Matplotlib
+* 🤖 Scikit-learn
+* 📓 Jupyter Notebook
+
+---
+
+### 🛠️ Desenvolvimento e Ferramentas
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="Git" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35" alt="GitHub" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="VS Code" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" alt="Docker" />
+</div>
+
+---
+
+## 📚 Atualmente estudando
+
+* 🤖 Machine Learning
+* 📊 Estatística para Dados
+* 🐍 Python para Ciência de Dados
+* 🗄️ Banco de Dados
+* 🔎 SQL
+* 🧠 Inteligência Artificial
+* ⚙️ Engenharia de Dados
+
+---
+
+## 📂 Projetos em destaque
+
+### 🏥 Projeto Hospitalar RJ
+
+Projeto de análise de dados hospitalares utilizando **Python, SQL e Power BI**, com organização do processo de dados em camadas **Bronze, Silver e Gold**.
+
+🔗 **[Ver projeto](https://github.com/gabriel-angelo-021/Projeto-Hospitalar-RJ)**
+
+### 🛒 Projeto E-commerce
+
+Projeto de banco de dados e análise de dados para um cenário de **E-commerce**, envolvendo modelagem, SQL, MySQL e Power BI.
+
+🔗 **[Ver projeto](https://github.com/gabriel-angelo-021/Projeto-E-commerce)**
+
+### 💵 Análise do Dólar
+
+Projeto de análise da cotação do dólar utilizando **Python, Pandas, estatística e visualização de dados**.
+
+🔗 **[Ver projeto](https://github.com/gabriel-angelo-021/Analise_do_Dolar)**
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gabriel-angelo-021&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gabriel-angelo-021&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-
-  
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gabriel-angelo-021&layout=compact&theme=tokyonight"/>
 </p>
 
-  
-### 🚀 Tecnologias e Ferramentas
-<img align="right" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+---
 
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
+## 📈 O que estou construindo
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo"  />
-</div>
+Meu objetivo é desenvolver projetos que demonstrem, na prática, minha capacidade de:
 
+* 🔎 Explorar e entender dados
+* 🧹 Realizar limpeza e tratamento de dados
+* 🐍 Desenvolver análises utilizando Python
+* 🗄️ Consultar e manipular bancos de dados com SQL
+* 📊 Criar dashboards e indicadores no Power BI
+* 📈 Transformar dados em informações relevantes
+* 🤖 Aplicar Machine Learning em problemas de negócio
+* 📁 Documentar projetos utilizando Git e GitHub
 
+---
 
-
-
- 📫 Redes de Contato
+## 📫 Entre em contato
 
 <div align="left">
-  <a href="mailto:gabriel4660820@email.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Gmail"/>
-  </a>
 
-  <a href="https://www.linkedin.com/in/gabriel-%C3%A2ngelo-a01689401/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn"/>
-  </a>
+<a href="https://www.linkedin.com/in/gabriel-%C3%A2ngelo-/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:gabriel4660820@email.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/gb_.angelo/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<p align="center">
+  <img height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+</p>
+
+<p align="center">
+  <strong>📊 Transformando dados em informação e conhecimento.</strong>
+</p>
 
 
 
 
-<br clear="both">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
