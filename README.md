@@ -112,11 +112,18 @@ Projeto de análise da cotação do dólar utilizando **Python, Pandas, estatís
 ## 📊 GitHub
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-Data%20Analysis-blue?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/SQL-Database-orange?style=for-the-badge&logo=mysql" />
-  <img src="https://img.shields.io/badge/Power%20BI-Business%20Intelligence-yellow?style=for-the-badge&logo=powerbi" />
-  <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-purple?style=for-the-badge&logo=pandas" />
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=gabriel-angelo-021&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+  />
+
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-angelo-021&layout=compact&theme=tokyonight"
+  />
 </p>
+```
+
 ---
 
 ## 📈 O que estou construindo
