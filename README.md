@@ -109,10 +109,13 @@ Projeto de análise da cotação do dólar utilizando **Python, Pandas, estatís
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=gabriel-angelo-021&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+## 📊 GitHub
 
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-angelo-021&layout=compact&theme=tokyonight"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Data%20Analysis-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/SQL-Database-orange?style=for-the-badge&logo=mysql" />
+  <img src="https://img.shields.io/badge/Power%20BI-Business%20Intelligence-yellow?style=for-the-badge&logo=powerbi" />
+  <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-purple?style=for-the-badge&logo=pandas" />
 </p>
 ---
 
@@ -150,14 +153,6 @@ Meu objetivo é desenvolver projetos que demonstrem, na prática, minha capacida
 </div>
 
 ---
-
-<p align="center">
-  <img height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-</p>
-
-<p align="center">
-  <strong>📊 Transformando dados em informação e conhecimento.</strong>
-</p>
 
 
 
