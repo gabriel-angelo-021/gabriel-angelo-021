@@ -37,8 +37,14 @@ evoluindo profissionalmente.
 </div>
 
 <br>
+<p align="center">
+  <img height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+</p>
 
-**Conhecimentos:**
+<p align="center">
+  <strong>📊 Transformando dados em informação e conhecimento.</strong>
+</p>
+
 
 * 🐍 Python
 * 🐼 Pandas
