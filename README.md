@@ -139,14 +139,7 @@ Meu objetivo é desenvolver projetos que demonstrem, na prática, minha capacida
 <a href="mailto:gabriel4660820@email.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
-<a href="https://www.instagram.com/gb_.angelo/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
 </div>
-
----
 
 
 
