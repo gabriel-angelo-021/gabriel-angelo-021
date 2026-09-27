@@ -103,7 +103,7 @@ Projeto de banco de dados e análise de dados para um cenário de **E-commerce**
 
 Projeto de análise da cotação do dólar utilizando **Python, Pandas, estatística e visualização de dados**.
 
-🔗 **[Ver projeto](https://github.com/gabriel-angelo-021/Analise_do_Dolar)**
+🔗 **[Ver projeto](https://github.com/gabriel-angelo-021/Projeto-Analise-do-Dolar.git)**
 
 ---
 
