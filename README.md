@@ -91,13 +91,13 @@ evoluindo profissionalmente.
 
 Projeto de análise de dados hospitalares utilizando **Python, SQL e Power BI**, com organização do processo de dados em camadas **Bronze, Silver e Gold**.
 
-🔗 **[Ver projeto](https://github.com/gabriel-angelo-021/Projeto-Hospitalar-RJ)**
+🔗 **[Ver projeto](https://github.com/gabriel-angelo-021/Projeto-Hospitalar-RIO.git)**
 
 ### 🛒 Projeto E-commerce
 
 Projeto de banco de dados e análise de dados para um cenário de **E-commerce**, envolvendo modelagem, SQL, MySQL e Power BI.
 
-🔗 **[Ver projeto](https://github.com/gabriel-angelo-021/Projeto-E-commerce)**
+🔗 **[Ver projeto](https://github.com/gabriel-angelo-021/Projeto-E-commerce.git)**
 
 ### 💵 Análise do Dólar
 
